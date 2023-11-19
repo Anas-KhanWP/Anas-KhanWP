@@ -1,9 +1,39 @@
-- 👋 Hi, I’m @Anas-KhanWP
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying CS from FUUAST...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- Gmail: anaskhanwp@gmail.com...
+# M. Anas Khan
+
+👋 Hello there! I'm M. Anas Khan, a results-oriented Software Developer with a passion for crafting efficient and scalable solutions.
+
+## 🔧 Technologies & Tools
+
+- Python
+- Node.js
+- C#
+- Java
+- PHP
+
+## 🚀 Skills
+
+- Full-Stack Development
+- Seamless Integration
+- Innovation
+- Scalability
+- Staying Abreast of Industry Trends
+
+## 🌱 About Me
+
+I am dedicated to creating user-friendly applications with a focus on innovation and scalability. I thrive in dynamic team environments and am always eager to take on challenging projects.
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/anas-khan-mak/)
+- [Facebook](https://www.facebook.com/MJC.Anas.Khan)
+- [Instagram](https://www.instagram.com/hmm_omen/)
+- [Email](mailto:anaskhanwp@gmail.com)
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on exciting projects. Feel free to reach out and let's build something amazing together!
+
+
 
 <!---
 Anas-KhanWP/Anas-KhanWP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
