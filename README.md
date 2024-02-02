@@ -5,6 +5,9 @@
 ## 🔧 Technologies & Tools
 
 - Python
+- Selenium
+- Scrapy
+- bs4
 - Node.js
 - C#
 - Java
@@ -13,6 +16,9 @@
 ## 🚀 Skills
 
 - Full-Stack Development
+- Web Development
+- Automation
+- API Development
 - Seamless Integration
 - Innovation
 - Scalability
