@@ -56,5 +56,6 @@ Stay connected with me on:
 
 - LinkedIn: [Anas Khan](https://www.linkedin.com/in/anas-khan-mak/)
 - Fiverr: [Anas Khan](https://www.fiverr.com/manas_khan)
+- Kaggle: [Anas Khan](https://www.kaggle.com/anaskhan78336)
 
 Join me on this exhilarating journey through the world of technology. The possibilities are endless, and the adventure awaits! 🚀
